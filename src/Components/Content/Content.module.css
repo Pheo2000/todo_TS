@@ -1,0 +1,37 @@
+.container {
+    padding-top: 30px;
+    width: 300px;
+    margin: auto;
+  }
+  
+  .input {
+    padding: 5px 15px;
+    width: 300px;
+  }
+  
+  .userlist {
+    margin-top: 30px;
+    list-style: none;
+  }
+  
+  .user {
+    list-style: none;
+    margin: 10px 0;
+    padding: 10px;
+    background: rgb(246, 229, 229);
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .userid {
+    color: red;
+    margin-right: 20px;
+  }
+  
+  .username {
+    color: blue;
+  }
+  
+  .userage {
+    margin-left: auto;
+  }
